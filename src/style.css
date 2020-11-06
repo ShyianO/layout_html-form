@@ -1,15 +1,15 @@
-fieldset {
+.block-info {
   margin-bottom: 20px;
 }
 
-div {
+.block-info div {
   margin-bottom: 10px;
 }
 
-fieldset div:last-child {
+.block-info div:last-child {
   margin: 0;
 }
 
-fieldset div input[type="number"] {
+.block-info div input[type="number"] {
   width: 65px;
 }
