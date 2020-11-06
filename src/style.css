@@ -2,14 +2,14 @@
   margin-bottom: 20px;
 }
 
-.block-info div {
+.block-info .block-inputs {
   margin-bottom: 10px;
 }
 
-.block-info div:last-child {
+.block-info .block-inputs:last-child {
   margin: 0;
 }
 
-.block-info div input[type="number"] {
+.block-info .block-inputs input[type="number"] {
   width: 65px;
 }
